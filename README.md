@@ -15,4 +15,4 @@ The manual data labeling process requires significant costs and time, especially
 <img src="./result/threshold.png" alt="Dynamic threshold setting impact on active learning performance">
 
 5. Initial Data Size Impact on Performance
-6. <img src="./result/init-size.png" alt="Initial data size impact on active learning performance">
+<img src="./result/init-size.png" alt="Initial data size impact on active learning performance">
